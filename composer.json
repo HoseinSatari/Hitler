@@ -12,5 +12,8 @@
         }
     },
     "license": ["mit"],
-    "require": {}
+    "require": {
+        "php": "7.2",
+        "laravel/laravel": "7"
+    }
 }
