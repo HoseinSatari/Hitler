@@ -1,0 +1,15 @@
+{
+    "name": "ho3ein/composer",
+    "authors": [
+        {
+            "name": "hosseinsattari",
+            "email": "ho3einsss84@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hittler\\" : "src/"
+        }
+    },
+    "require": {}
+}
