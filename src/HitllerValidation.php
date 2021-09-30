@@ -3,7 +3,7 @@
 
 class HitllerValidation
 {
-    public function validation(array $data , $field)
+    public function has(array $data , $field)
     {
          return isset($data[$field]);
     }
